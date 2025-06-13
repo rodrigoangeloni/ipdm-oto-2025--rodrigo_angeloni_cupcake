@@ -1,4 +1,4 @@
-# 🧁 Aplicación Cupcake - Ejemplo de Jetpack Compose
+# 🧁 Aplicación Cupcake 🧁
 
 <!-- Badges (opcional, puedes generarlos en shields.io) -->
 <!-- ![Build Status](https://img.shields.io/travis/com/usuario/repo/main) -->
